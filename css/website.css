@@ -1,0 +1,132 @@
+html{
+    scroll-behavior: smooth;
+}
+
+
+.navbar .navbar-nav .nav-link{
+    color:red;
+    font-family: 'Fredoka One', cursive;
+    
+}
+
+.navbar .navbar-nav .nav-item > a:hover {
+  color: aqua;
+}
+
+.navbar{
+    background-color: black;
+     position: fixed;
+  top: 0;
+  width: 100%; 
+}
+
+
+.jumbotron{
+    height: 800px;
+    background-image: url("../Pictures/wp2343898.jpg");
+    background-size: cover;
+    color: rgb(109, 241, 216);
+}
+
+.map{
+text-align: center;
+    display:block;
+}
+
+.aboutMeList{
+      font-family: 'Fredoka One', cursive;
+        text-align: center;
+    list-style-type:hiragana;
+    list-style-position: inside;
+    color: rgb(109, 241, 216);
+}
+
+.divCV{
+   text-align: center;
+    font-family: 'Fredoka One', cursive;
+}
+
+
+
+body{
+    background: darkred;  
+}
+
+.aboutMe{
+    
+    font-family: 'Fredoka One', cursive;
+    text-align: center;
+    color: rgb(109, 241, 216);
+}
+
+.divContactSection{
+}
+
+
+.test.display-4{
+    text-align: center;
+    font-family: 'Fredoka One', cursive;
+}
+
+
+.test2.lead{
+    text-align: center; 
+    font-family: 'Fredoka One', cursive;
+}
+
+.projectListing1 {
+  
+}
+
+.projectListing2{
+    padding-left: 24px;   
+}
+
+.projectListing3{
+       
+   
+}
+
+
+.captions{
+    
+    background-color: black;
+    width:420px;
+    color:white;
+    border-radius: 25px;
+    
+    
+}
+
+#projectDiv{
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+    text-align: center;
+    font-family: 'Fredoka One', cursive;
+
+}
+
+.projectHeader{
+    text-align: center;
+     font-family: 'Fredoka One', cursive;
+    align-items: center;
+}
+
+.break {
+  flex-basis: 100%;
+  height: 0;
+}
+
+
+
+a {
+    color:red
+}
+
+
+a:hover{
+     color: aqua;
+}
+
