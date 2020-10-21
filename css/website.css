@@ -1,5 +1,10 @@
+
 html{
     scroll-behavior: smooth;
+}
+
+body{
+    background: darkred; 
 }
 
 
@@ -15,18 +20,27 @@ html{
 
 .navbar{
     background-color: black;
-     position: fixed;
   top: 0;
-  width: 100%; 
+  width: 100%;
+    position:relative;
+    
 }
+
 
 
 .jumbotron{
-    height: 800px;
-    background-image: url("../Pictures/wp2343898.jpg");
+    height: 750px;
+    background-image: url("../Pictures/wp2343898-synthwave-wallpapers.jpg");
+    background-position: center;
     background-size: cover;
     color: rgb(109, 241, 216);
+    position: relative;
+    padding-top: 3px;
+    overflow: hidden;
+    
+      
 }
+
 
 .map{
 text-align: center;
@@ -43,14 +57,12 @@ text-align: center;
 
 .divCV{
    text-align: center;
-    font-family: 'Fredoka One', cursive;
+font-family: 'Fredoka One', cursive;
+    font-size:25px;
 }
 
 
 
-body{
-    background: darkred;  
-}
 
 .aboutMe{
     
@@ -60,6 +72,10 @@ body{
 }
 
 .divContactSection{
+}
+
+.projects{
+    background: darkred; 
 }
 
 
@@ -119,7 +135,12 @@ body{
   height: 0;
 }
 
-
+.copyRight {
+     position: absolute;
+  bottom:-20px;
+  right: 0px;
+font-size: 10px;
+}
 
 a {
     color:red
