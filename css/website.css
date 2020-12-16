@@ -23,6 +23,8 @@ body{
   top: 0;
   width: 100%;
     position:relative;
+    height: auto;
+    width:auto;
     
 }
 
@@ -36,8 +38,8 @@ body{
     color: rgb(109, 241, 216);
     position: relative;
     padding-top: 3px;
-    overflow: hidden;
-    
+    height: auto;
+    width:auto;
       
 }
 
