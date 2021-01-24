@@ -105,6 +105,10 @@ font-family: 'Fredoka One', cursive;
    padding-left: 24px;  
 }
 
+.projectListing4{
+    padding-left: 24px;  
+}
+
 
 .captions{
     
@@ -113,6 +117,14 @@ font-family: 'Fredoka One', cursive;
     color:white;
     border-radius: 25px;
     
+    
+}
+
+.captionsBasicATM{
+    background-color: black;
+    width:520px;
+    color:white;
+    border-radius: 25px;
     
 }
 
