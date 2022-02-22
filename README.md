@@ -6,4 +6,4 @@ I made this portfolio to practice my html and css skills. I wanted to also show 
 
 https://kadeem-caines.github.io/Website-Portfolio/
 
-![websiteScreenshot](Pictures/Capturesda.JPG)
+![image](https://user-images.githubusercontent.com/14876576/155185336-3c311cda-6c46-42d1-a5d4-a09e0eb11eb5.png)
